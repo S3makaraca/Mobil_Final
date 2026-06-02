@@ -1,10 +1,10 @@
 # MHRS KLONU
   Flutter ve Dart ile geliştirilmiş MHRS (Merkezi Hekim Randevu Sistemi) mobil uygulama klonu.
 
-# ÖZELLİKLER
+# Özellikler
 Ana Sayfa,
-Randevularım,
+Randevularım(Randevularım,Geçmiş ve Gizli),
 Menü
 
-# TEKNOLOJİLER
+# Teknolojiler
 Flutter & Dart
